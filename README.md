@@ -1,1 +1,1 @@
-# HomeWork Cpp kurses
+# HomeWork Cpp courses
